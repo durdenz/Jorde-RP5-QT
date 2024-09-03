@@ -12,4 +12,6 @@
     - https://github.com/MuyePan/CrossCompileQtForRpi
 5. Cross compilation of Qt6.5.1 for Rpi 64-bit step by step (With Qt Creator)
     - https://www.youtube.com/watch?v=8kpHgNKPooc
-6. 
+6. Raspberry Pi Beginners Guide
+    - https://wiki.qt.io/Raspberry_Pi_Beginners_Guide
+
