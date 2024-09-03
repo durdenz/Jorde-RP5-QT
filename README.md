@@ -10,4 +10,6 @@
     - https://doc.qt.io/Boot2Qt/b2qt-deploying-b2qt.html
 4. Cross Compile QT for RPi
     - https://github.com/MuyePan/CrossCompileQtForRpi
-    
+5. Cross compilation of Qt6.5.1 for Rpi 64-bit step by step (With Qt Creator)
+    - https://www.youtube.com/watch?v=8kpHgNKPooc
+6. 
