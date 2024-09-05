@@ -14,4 +14,15 @@
     - https://www.youtube.com/watch?v=8kpHgNKPooc
 6. Raspberry Pi Beginners Guide
     - https://wiki.qt.io/Raspberry_Pi_Beginners_Guide
+7.  Cross-compiling Qt Embedded 5.5 for Raspberry Pi 2 (Windows)
+    - https://visualgdb.com/tutorials/raspberry/qt/embedded/
 
+### Yocto Based QT on RPI
+8. Tutorial 2 - Deploy Qt touchscreen apps on the Raspberry Pi
+    - https://www.youtube.com/watch?v=1Y2APuTxXP0&t
+9. Fun with Yocto, Qt and Raspberry Pi 4
+    - https://everythingembedded.blogspot.com/
+10. The Yocto Project
+    - https://www.yoctoproject.org/
+11. Yocto Project Quick Build
+    - https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
